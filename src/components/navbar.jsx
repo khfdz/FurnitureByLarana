@@ -2,7 +2,6 @@
 import React from 'react';
 import Larana from '../../public/images/larana.png';
 import Cart from '../../public/images/cart.png';
-import Search from '../../public/images/search.png';
 import Profile from '../../public/images/profile.png';
 import Search2 from '../../public/images/search2.png';
 

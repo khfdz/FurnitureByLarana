@@ -1,4 +1,4 @@
-import Banner4 from "/public/images/Banner4.png";
+import Banner4 from "/images/banner4.png";
 
 const Page4 = () => {
     return (

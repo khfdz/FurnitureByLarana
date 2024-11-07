@@ -1,11 +1,10 @@
-import React from "react";
-import Banner3Part1 from "../../public/images/banner3part1.png";
-import Banner3Part2 from "../../public/images/banner3part2.png";
-import Banner3Part3 from "../../public/images/banner3part3.png";
-import Banner3Part4 from "../../public/images/banner3part4.png";
-import Banner3Part5 from "../../public/images/banner3part5.png";
-import Banner3Part6 from "../../public/images/banner3part6.png";
-import Cart2 from "../../public/images/cart2.png";
+import Banner3Part1 from "/images/banner3part1.png";
+import Banner3Part2 from "/images/banner3part2.png";
+import Banner3Part3 from "/images/banner3part3.png";
+import Banner3Part4 from "/images/banner3part4.png";
+import Banner3Part5 from "/images/banner3part5.png";
+import Banner3Part6 from "/images/banner3part6.png";
+import Cart2 from "/images/cart2.png";
 
 const Page3 = () => {
     return (

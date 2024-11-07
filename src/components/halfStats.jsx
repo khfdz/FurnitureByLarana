@@ -1,6 +1,3 @@
-// src/components/HalfStats.js
-import React from 'react';
-
 const HalfStats = () => {
   return (
     <div className="ml-[200px] mt-[170px]">

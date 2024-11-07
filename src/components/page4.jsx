@@ -1,5 +1,4 @@
-import React from "react";
-import Banner4 from "../../public/images/Banner4.png";
+import Banner4 from "/public/images/Banner4.png";
 
 const Page4 = () => {
     return (

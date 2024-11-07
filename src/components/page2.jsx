@@ -1,9 +1,7 @@
-// src/pages/Page2.js
-import React from 'react';
-import Banner2Part1 from '../../public/images/banner2part1.png';
-import Banner2Part2 from '../../public/images/banner2part2.png';
-import Banner2Part3 from '../../public/images/banner2part3.png';
-import IconButton1 from '../../public/images/button1.png';
+import Banner2Part1 from '/images/banner2part1.png';
+import Banner2Part2 from '/images/banner2part2.png';
+import Banner2Part3 from '/images/banner2part3.png';
+import IconButton1 from '/images/button1.png';
 
 const Page2 = () => {
   return (

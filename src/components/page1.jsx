@@ -1,6 +1,5 @@
 // src/pages/Page1.js
-import React from 'react';
-import BannerImage from '/public/images/banner1.png';
+import BannerImage from '/images/banner1.png';
 import HalfStats from '../components/halfStats';
 
 

@@ -1,7 +1,6 @@
-import React from "react";
-import Banner5Part1 from "../../public/images/banner5part1.png";
-import Banner5Part2 from "../../public/images/banner5part2.png";
-import Banner5Part3 from "../../public/images/banner5part3.png";
+import Banner5Part1 from "/images/banner5part1.png";
+import Banner5Part2 from "/images/banner5part2.png";
+import Banner5Part3 from "/images/banner5part3.png";
 
 const Page5 = () => {
     return (

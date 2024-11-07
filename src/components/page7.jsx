@@ -1,5 +1,3 @@
-import React from "react";
-
 const Page7 = () => {
     return (
         <div className="flex flex-col items-center justify-center h-[400px] bg-black text-white text-sm">
